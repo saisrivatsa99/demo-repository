@@ -1,0 +1,5 @@
+print "This is code to add 2 numbers"
+a= 15
+b=12
+sum= a+b
+print("sum is"+sum)
